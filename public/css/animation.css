@@ -54,7 +54,7 @@ div:hover {
     animation-iteration-count: infinite;
     animation-direction: alternate;
 
-    position: relative;
+    position: ad;
 }
 
 @keyframes Bounce {
